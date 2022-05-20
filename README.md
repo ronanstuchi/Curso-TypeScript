@@ -1,4 +1,7 @@
-# Aula de Typescript da Take na plataforma DIO
+# Aula de Typescript da plataforma DIO 
+# Geração Tech Unimed-BH | Fullstack
+
+### As perguntas e respostas está no arquivo src/app.ts
   
 *Bem vindo!!*
 
